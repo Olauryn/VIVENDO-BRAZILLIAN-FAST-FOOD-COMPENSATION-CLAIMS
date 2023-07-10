@@ -1,5 +1,5 @@
 # VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS
-![sm_f7b6c861bd80a6dfd15d04c4919ff73e](https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/9e1e4942-d6e5-4485-88f7-9d649652ee86)
+
 
 Vivendo Brazilian is a fast food chain in Brazil with over 200 outlets. (Not a real fast food outlet)
 
