@@ -159,6 +159,8 @@ From these calculations, we can see that the majority of claims **(about 71%)** 
 
 ## Describe the relationship between time to close and location. 
 
+<img width="535" alt="Screenshot 2023-04-23 204648" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/b50ad7fc-adfb-42a8-bccf-669b223c1adf">
+
 **RECIFE** has the highest sum of claims with **7101**, and also the highest time to close claims with **885**. This suggests that the location with the highest sum of claims also had the longest time to close claims on average.
 
 **SAO LUIS** has the second-highest sum of claims with **4161**, and also the second-highest time to close claims with **517**. This suggests that the location with the second-highest sum of claims also had the second-longest time to close claims on average.
@@ -167,7 +169,7 @@ From these calculations, we can see that the majority of claims **(about 71%)** 
 
 **NATAL** has the lowest sum of claims with **2339**, and also the shortest time to close claims with **287**. This suggests that the location with the lowest sum of claims also had the shortest time to close claims on average.
 
-Therefore, we can observe a **negative relationship** between time to close and location, where locations with a higher sum of claims tended to have a higher average time to close the claims. This could indicate that there are differences in the efficiency of claims processing across locations, and that locations with a higher workload may have a longer processing time.
+Therefore, we can observe a **negative relationship** between time to close and location, where locations with a higher sum of claims tends to have a higher average time to close the claims. This could indicate that there are differences in the efficiency of claims processing across locations, and that locations with a higher workload may have a longer processing time.
 
 
 
