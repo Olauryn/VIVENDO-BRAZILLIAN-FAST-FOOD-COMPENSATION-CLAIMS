@@ -144,7 +144,7 @@ From these calculations, we can see that the percentage differences between RECI
 
 ## Describe the distribution of time to close for all claims. 
 
-<img width="577" alt="Screenshot 2023-07-11 005549" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/0c781b4c-7c21-4b2c-a77a-378524146382">
+<img width="637" alt="Screenshot 2023-07-11 005856" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/7d087608-29d9-4996-9693-e57daac5e9da">
 
 The distribution of time to close for all claims can be described based on the number of claims made within each time range.
 
