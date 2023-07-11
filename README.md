@@ -144,7 +144,7 @@ From these calculations, we can see that the percentage differences between RECI
 
 ## Describe the distribution of time to close for all claims. 
 
-<img width="637" alt="Screenshot 2023-07-11 005856" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/7d087608-29d9-4996-9693-e57daac5e9da">
+
 
 The distribution of time to close for all claims can be described based on the number of claims made within each time range.
 
@@ -164,7 +164,7 @@ From these calculations, we can see that the majority of claims **(about 71%)** 
 
 ## Describe the relationship between time to close and location. 
 
-<img width="535" alt="Screenshot 2023-04-23 204648" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/b50ad7fc-adfb-42a8-bccf-669b223c1adf">
+<img width="637" alt="Screenshot 2023-07-11 005856" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/7d087608-29d9-4996-9693-e57daac5e9da">
 
 **RECIFE** has the highest sum of claims with **7101**, and also the highest time to close claims with **885**. This suggests that the location with the highest sum of claims also had the longest time to close claims on average.
 
