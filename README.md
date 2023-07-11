@@ -78,8 +78,7 @@ From my observation I noticed the following from each of the fields in the datas
 
 The dataset comprises of four unique locations, **RECIFE (7101)**, **SAO LUIS (4161)**, **FORTALEZA (2508)**, and **NATAL (2329)** among which **RECIIFE** had the highest count of individual claims which was 7101, while **NATAL** had the lowest count of individual claims which was 2329. 
 
-<img width="606" alt="Screenshot 2023-07-11 005117" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/bdb45c0d-e79f-4830-85e7-7ecb3d76e7b9">
-
+<img width="609" alt="Screenshot 2023-07-11 202956" src="https://github.com/Olauryn/VIVENDO-BRAZILLIAN-FAST-FOOD-COMPENSATION-CLAIMS/assets/118401566/b758ced6-ee44-4b88-8b7b-53539e6a830c">
 
 ### Explain whether the observations are balanced across categories of the variable location.
 
